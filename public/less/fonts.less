@@ -1,0 +1,20 @@
+@pathFontOpenSans: '../fonts/OpenSans/';
+@pathFontSourseSansPro: '../fonts/SourceSansPro/';
+.fontFace(@name; @url; @weight: normal; @style: normal; ) {
+    @font-face {
+        font-family: "@{name}";
+        src: url("@{url}@{name}.ttf") format("truetype");
+        font-style: @style;
+        font-weight: @weight;
+    }
+}
+/*--SourseSansPro--*/
+.fontFace(SourceSansPro-ExtraLight, @pathFontSourseSansPro);
+.fontFace(SourceSansPro-Italic, @pathFontSourseSansPro);
+.fontFace(SourceSansPro-Light, @pathFontSourseSansPro);
+.fontFace(SourceSansPro-Regular, @pathFontSourseSansPro);
+.fontFace(SourceSansPro-Semibold, @pathFontSourseSansPro);
+/*--OpenSans--*/
+.fontFace(OpenSans-Light, @pathFontOpenSans);
+.fontFace(OpenSans-Regular, @pathFontOpenSans);
+.fontFace(OpenSans-Semibold, @pathFontOpenSans);

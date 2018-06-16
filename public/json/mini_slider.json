@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "fullName": "Sushi Silverano",
+      "description":  "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores debitis delectus dolor, est facilis ipsum modi!",
+      "img": "url(../images/Layer5.jpg) 50% 50% no-repeat",
+      "skill": {
+        "android": "70%",
+        "apple": "80%",
+        "windows": "70%",
+        "more": "50%"
+      }
+    },
+    {
+      "id": 1,
+      "fullName": "William Hurt",
+      "description":  "Asperiores debitis delectus dolor, est facilis ipsum modi! Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "img": "url(../images/Layer1.jpg) 50% 50% no-repeat",
+      "skill": {
+        "android": "80%",
+        "apple": "70%",
+        "windows": "60%",
+        "more": "70%"
+      }
+    },
+    {
+      "id": 2,
+      "fullName": "Patricia Clarkson",
+      "description":  "Lorem debitis delectus dolor, consectetur adipisicing elit. Asperiores ipsum dolor sit amet, est facilis ipsum modi!",
+      "img": "url(../images/Layer3.jpg) 50% 50% no-repeat",
+      "skill": {
+        "android": "70%",
+        "apple": "90%",
+        "windows": "40%",
+        "more": "60%"
+      }
+    }
+  ],
+  "ourBlog": [
+    {
+      "id": "ourBlog-img-0",
+      "blogPosted": "POSTED 7 SECOND AGO",
+      "header": "Blandit <span> consequat orci</span>",
+      "FirstColText": "Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.<br><br>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore feugiatnulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.",
+      "SecondColText": "Vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet.<br><br> Ut wisi enim ad minim veniam, quis nostrud exerci tation commodo consequat."
+    },
+    {
+      "id": "ourBlog-img-1",
+      "blogPosted": "POSTED 7 MONTHS AGO",
+      "header": "Ежик <span> вас приметил</span>",
+      "FirstColText": "Вы только не стесняйтесь, но походу вы ему понравились. Он может дать свой телефон, чтобы вы ему позвонили.",
+      "SecondColText": "Если вы не можете ему позвонить сейчас, то позвоните потом, иначе он обидется."
+    },
+    {
+      "id": "ourBlog-img-2",
+      "blogPosted": "POSTED 7 WEEKS AGO",
+      "header": "Верблюд <span> с двумя горбами</span>",
+      "FirstColText": "Два горба это круто!",
+      "SecondColText": "Он хочет в вас плюнуть!"
+    },
+    {
+      "id": "ourBlog-img-3",
+      "blogPosted": "POSTED 7 DAYS AGO",
+      "header": "Одуванчик <span>мощный</span>",
+      "FirstColText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta dolores explicabo incidunt minima placeat quam quisquam quo tenetur veritatis voluptatibus. Adipisci architecto dignissimos explicabo molestias placeat praesentium quod rerum unde!",
+      "SecondColText": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta dolores explicabo incidunt minima placeat quam quisquam quo tenetur veritatis voluptatibus. Adipisci architecto dignissimos explicabo molestias placeat praesentium quod rerum unde!"
+    },
+    {
+      "id": "ourBlog-img-4",
+      "blogPosted": "POSTED 7 MINUTS AGO",
+      "header": "Чайка <span>одноглазый пират</span>",
+      "FirstColText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet commodi deleniti, eligendi itaque iusto nostrum odio placeat quam quasi vero? Debitis, dolor doloremque doloribus hic iusto quae sequi soluta. Qui.",
+      "SecondColText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet commodi deleniti, eligendi itaque iusto nostrum odio placeat quam quasi vero? Debitis, dolor doloremque doloribus hic iusto quae sequi soluta. Qui."
+    }
+  ]
+}
